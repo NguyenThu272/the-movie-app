@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/drawable/circle_progress_bar.xml" value="0.10648148148148148" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/drawable/circle_shape.xml" value="0.10648148148148148" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/drawable/drop_shadow.xml" value="0.1259259259259259" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/drawable/edit_text_background.xml" value="0.1" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/drawable/spinner_border.xml" value="0.1" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/drawable/tool_bar_shadow.xml" value="0.1" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/activity_image_viewer.xml" value="0.23802083333333332" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/activity_movie_detail.xml" value="0.264" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/activity_person_detail.xml" value="0.1" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/movie_credits_layout.xml" value="0.2" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/production_company_layout.xml" value="0.24114583333333334" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/profile_images_layout.xml" value="0.1" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/search_layout_item.xml" value="0.12037037037037036" />
+        <entry key="..\:/Study/Android/TheMovie/app/src/main/res/layout/slide_from_right.xml" value="0.12037037037037036" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
